@@ -1,0 +1,6 @@
+/.vs
+/x64
+*.vcxproj.filters
+*.vcxproj.user
+/x64/Debug
+/tableViewTest/x64
