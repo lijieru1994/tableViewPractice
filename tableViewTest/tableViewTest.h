@@ -17,7 +17,7 @@ public:
 
 private:
     Ui::tableViewTestClass ui;
-    QTableView* tableView;
+    QTableView* m_tableView;
     QPushButton* btnLoad;
     QPushButton* btnClear;
 
